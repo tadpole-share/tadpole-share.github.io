@@ -21,13 +21,13 @@ description: SHaring TADPOLE’s Algorithms for Reuse and Evaluation
 # List of links in the navigation bar
 navbar-links:
   About TADPOLE: "aboutme"
-  Run it yourself: "https://github.com/tadpole-share/jupyter"
-  Make your algorithm compatible: "https://github.com/tadpole-share/EMC-EB"
+  Try it: 
+    - Run it on your own computer: "https://github.com/tadpole-share/jupyter"
+    - Make your algorithm compatible: "https://github.com/tadpole-share/EMC-EB"
   Algorithms:
     - EMC1: "https://github.com/tadpole-share/TADPOLE_submission_with_debm"
     - Borre: "https://github.com/tadpole-share/borre"
-
-  Resources:    
+  Resources:
     - Netherlands eScience Center Project: "https://www.esciencecenter.nl/project/tadpole-share"
     - TADPOLE challenge: "https://tadpole.grand-challenge.org/"
 
