@@ -24,6 +24,7 @@ There are currently two algorithms available:
 - [SimpleSVM](https://github.com/tadpole-share/tadpole-algorithms/tree/master/tadpole_algorithms/models/simple_svm)
 
 ### Try it yourself!
+[![DOI](https://zenodo.org/badge/188199845.svg)](https://zenodo.org/badge/latestdoi/188199845)
 
 The algorithms are available as a [python package](https://github.com/tadpole-share/tadpole-algorithms/). 
 A good starting point is the [Jupyter Lab](https://github.com/tadpole-share/jupyter) environment created by the
@@ -32,6 +33,7 @@ This will hopefully inspire newcomers to the field of alzheimer prediction to tr
 they can improve upon the accuracy or speed of the predictions.
 
 ### Make your own algorithm compatible
+[![DOI](https://zenodo.org/badge/227615738.svg)](https://zenodo.org/badge/latestdoi/227615738)
 
 Your algorithms can benefit from the TADPOLE-SHARE infrastructure. To make this work, they should conform to a standardized interface as defined for TADPOLE-SHARE. It roughly follows the [original challenges](https://tadpole.grand-challenge.org/) design. 
 
