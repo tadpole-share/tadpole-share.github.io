@@ -37,3 +37,5 @@ Your algorithms can benefit from the TADPOLE-SHARE infrastructure. To make this 
 
 In the [tadpole-algorithms](https://github.com/tadpole-share/tadpole-algorithms) repository, the Netherlands eScience Center has made an effort
 to generalize one of the algoritms for further use. This repository will now function as a template for other algorithms which want to benefit from this approach as well. In this repository, we have made sure that the code conforms to the FAIR standards for open and reproduceable science.
+
+![](img/tadpole_diagram.svg)
