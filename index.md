@@ -39,3 +39,11 @@ In the [tadpole-algorithms](https://github.com/tadpole-share/tadpole-algorithms)
 to generalize one of the algoritms for further use. This repository will now function as a template for other algorithms which want to benefit from this approach as well. In this repository, we have made sure that the code conforms to the FAIR standards for open and reproduceable science.
 
 ![](img/tadpole_diagram.svg)
+
+The standardized interface requires users to implement the following functions:
+
+*train(training_set: pd.DataFrame)*
+Train the machine learning model on the [input data](https://tadpole.grand-challenge.org/Data/) to prepare it for predictions. We use D1 and D2 of the referenced set in this step.
+
+*predict(test_set: pd.DataFrame)*
+Predict the next state for all of the subjects in the test set. This step uses D3 of the referenced dataset.
