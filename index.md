@@ -42,8 +42,29 @@ to generalize one of the algoritms for further use. This repository will now fun
 
 The standardized interface requires users to implement the following functions:
 
-*train(training_set: pd.DataFrame)*
+*train(training_set: pd.DataFrame)*  
 Train the machine learning model on the [input data](https://tadpole.grand-challenge.org/Data/) to prepare it for predictions. We use D1 and D2 of the referenced set in this step.
 
-*predict(test_set: pd.DataFrame)*
+*predict(test_set: pd.DataFrame)*  
 Predict the next state for all of the subjects in the test set. This step uses D3 of the referenced dataset.
+
+The output of the predictions should be a DataFrame containing predictions for each patient / RID,
+for each month for the following 10 years, with the following fields:
+```
+{
+    'RID': [RID / patient ID],
+    'month': [prediction month (after last EXAM_DATE for this RID), number between 1 and 120],
+    'Forecast Date': [Forecast date in 'YYYY-MM-DD' format],
+    'CN relative probability': [number],
+    'MCI relative probability': [number],
+    'AD relative probability': [number],
+
+    'ADAS13': [number],
+    'ADAS13 50% CI lower': [number],
+    'ADAS13 50% CI upper': [number],
+
+    'Ventricles_ICV': [number],
+    'Ventricles_ICV 50% CI lower': [number],
+    'Ventricles_ICV 50% CI upper': [number],
+}
+```
