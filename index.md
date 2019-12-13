@@ -15,19 +15,33 @@ The [challenge](https://tadpole.grand-challenge.org/) on which this project was 
 
 During the course of this challenge several machine learning algorithms were created to tackle these research questions. 
 
-### The Shared TADPOLE Algorithms
+### TADPOLE-SHARE
 
-Several algorithms were shared following a call by the challenge organizers, to be used as the codebase for TADPOLE-SHARE. 
+To allow further investigation of the methods used in the original challenge, the challenges organizers ask the participants
+to submit their algorithms / workflows in such a way that they can be repeated for different test and training data sets.
 
-- [EMC1](https://github.com/tadpole-share/TADPOLE_submission_with_debm)
-- [Borre](https://github.com/tadpole-share/borre)
+### Example TADPOLE Algorithms
+
+There are currently two algorithms available:
+- [ECM-EB](https://github.com/tadpole-share/tadpole-algorithms/tree/master/tadpole_algorithms/models/ecmeb)
+- [SimpleSVM](https://github.com/tadpole-share/tadpole-algorithms/tree/master/tadpole_algorithms/models/simple_svm)
 
 ### Try it yourself!
 
-The conda environment created by the Netherlands eScience Center will allow users to quickly deploy a Jupyter Notebook to try (and tweak) the algorithms, which saves a copious amount of hassle for beginners. This will hopefully inspire newcomers to the field of alzheimer prediction to try their own variations, and to see if they can improve upon the accuracy or speed of the predictions.
-
-[TRY IT OUT!](https://github.com/tadpole-share/jupyter)
+The algorithms are available as a [python package](https://github.com/tadpole-share/tadpole-algorithms/). 
+A good starting point is the [Jupyter Lab](https://github.com/tadpole-share/jupyter) environment created by the
+Netherlands eScience Center.
+This will hopefully inspire newcomers to the field of alzheimer prediction to try their own variations, and to see if 
+they can improve upon the accuracy or speed of the predictions.
 
 ### Make your own algorithm compatible
 
-In the [ECM-EB](https://github.com/tadpole-share/EMC-EB) repository, the Netherlands eScience Center has made an effort to generalize one of the algoritms for further use. This repository will now function as a template for other algorithms which want to benefit from this approach as well. In this repository, we have made sure that the code conforms to the FAIR standards for open and reproduceable science.
+Your algorithm should conform to a standardized interface as defined for TADPOLE-SHARE. It roughly follows the [original
+challenges](https://tadpole.grand-challenge.org/) design.  
+
+### WIP HERE
+
+In the [ECM-EB](https://github.com/tadpole-share/EMC-EB) repository, the Netherlands eScience Center has made an effort
+to generalize one of the algoritms for further use. This repository will now function as a template for other algorithms
+which want to benefit from this approach as well. In this repository, we have made sure that the code conforms to the
+FAIR standards for open and reproduceable science.
