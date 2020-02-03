@@ -20,9 +20,9 @@ During the course of this challenge several machine learning algorithms were cre
 To allow further investigation of the methods used in the original challenge, the challenges organizers have asked the participants to submit their algorithms / workflows in such a way that they can be repeated for different test and training data sets. Some challenge participants have already shared their algorithms.
 
 There are currently three algorithms available:
-- [EMC-EB](https://github.com/tadpole-share/tadpole-algorithms/tree/master/tadpole_algorithms/models/ecmeb)
-- [SimpleSVM](https://github.com/tadpole-share/tadpole-algorithms/tree/master/tadpole_algorithms/models/simple_svm)
 - [BenchmarkLastVisit](https://github.com/tadpole-share/tadpole-algorithms/tree/benchmark_last_visit/tadpole_algorithms/models/benchmark_last_visit)
+- [BenchmarkSVM](https://github.com/tadpole-share/tadpole-algorithms/tree/master/tadpole_algorithms/models/simple_svm)
+- [EMC-EB](https://github.com/tadpole-share/tadpole-algorithms/tree/master/tadpole_algorithms/models/ecmeb)
 
 ### Try it yourself!
 [![DOI](https://zenodo.org/badge/188199845.svg)](https://zenodo.org/badge/latestdoi/188199845)
