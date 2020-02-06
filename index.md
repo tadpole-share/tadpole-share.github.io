@@ -21,8 +21,8 @@ To allow further investigation of the methods used in the original challenge, th
 
 There are currently three algorithms available:
 - [BenchmarkLastVisit](https://github.com/tadpole-share/tadpole-algorithms/tree/master/tadpole_algorithms/models/benchmark_last_visit)
-- [BenchmarkSVM](https://github.com/tadpole-share/tadpole-algorithms/tree/master/tadpole_algorithms/models/simple_svm)
-- [EMC-EB](https://github.com/tadpole-share/tadpole-algorithms/tree/master/tadpole_algorithms/models/ecmeb)
+- [BenchmarkSVM](https://github.com/tadpole-share/tadpole-algorithms/tree/master/tadpole_algorithms/models/benchmark_svm)
+- [EMC-EB](https://github.com/tadpole-share/tadpole-algorithms/tree/master/tadpole_algorithms/models/emceb)
 
 ### Try it yourself!
 [![DOI](https://zenodo.org/badge/188199845.svg)](https://zenodo.org/badge/latestdoi/188199845)

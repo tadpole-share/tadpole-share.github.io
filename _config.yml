@@ -26,8 +26,8 @@ navbar-links:
     - Make your algorithm compatible: "https://github.com/tadpole-share/EMC-EB"
   Algorithms:
     - BenchmarkLastVisit: "https://github.com/tadpole-share/tadpole-algorithms/tree/master/tadpole_algorithms/models/benchmark_last_visit"
-    - BenchmarkSVM: "https://github.com/tadpole-share/tadpole-algorithms/tree/master/tadpole_algorithms/models/simple_svm"
-    - EMC-EB: "https://github.com/tadpole-share/tadpole-algorithms/tree/master/tadpole_algorithms/models/ecmeb"
+    - BenchmarkSVM: "https://github.com/tadpole-share/tadpole-algorithms/tree/master/tadpole_algorithms/models/benchmark_svm"
+    - EMC-EB: "https://github.com/tadpole-share/tadpole-algorithms/tree/master/tadpole_algorithms/models/emceb"
   Resources:
     - Netherlands eScience Center Project: "https://www.esciencecenter.nl/project/tadpole-share"
     - TADPOLE challenge: "https://tadpole.grand-challenge.org/"
