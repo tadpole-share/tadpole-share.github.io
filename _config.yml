@@ -20,7 +20,7 @@ description: SHaring TADPOLE’s Algorithms for Reuse and Evaluation
 
 # List of links in the navigation bar
 navbar-links:
-  About TADPOLE: "aboutme"
+  About: "aboutme"
   Try it: 
     - Run it on your own computer: "https://github.com/tadpole-share/jupyter"
     - Make your algorithm compatible: "https://github.com/tadpole-share/EMC-EB"
