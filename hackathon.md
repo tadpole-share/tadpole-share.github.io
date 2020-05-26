@@ -22,9 +22,10 @@ The manuscript will consist of the following elements:
 
 # Program
 __Thursday July 23__
-| 09.00-14.00 CEST: | **Hands-on time**\*<br>Short update meetings will be planned with all European and Asian teams separately |
-| 14.00-15.30 CEST: |  **Hackathon Official Opening**<br>1. Introduction by TADPOLE-SHARE organizers (~15 mins)<br>2. Pitch by each participating team (~10 mins each)<br> - Introduce yourself, including some fun pictures of team members<br> - Brief explanation of your algorithm<br> - What are your goals and expectations for this hackathon |
-| 15.30-17.00 CEST: | **Hands-on time**\*<br>Short update meetings will be planned with all Latin- and North-American teams |
+09.00-14.00 CEST: | **Hands-on time**\*<br>Short update meetings will be planned with all European and Asian teams separately 
+------------ | -------------
+14.00-15.30 CEST: |  **Hackathon Official Opening**<br>1. Introduction by TADPOLE-SHARE organizers (~15 mins)<br>2. Pitch by each participating team (~10 mins each)<br> - Introduce yourself, including some fun pictures of team members<br> - Brief explanation of your algorithm<br> - What are your goals and expectations for this hackathon
+15.30-17.00 CEST: | **Hands-on time**\*<br>Short update meetings will be planned with all Latin- and North-American teams
 
 ** Friday July 24 **
 | 09.00-14.00 CEST: | **Hands-on time**\*<br>Short update meetings will be planned with all European and Asian teams separately |
