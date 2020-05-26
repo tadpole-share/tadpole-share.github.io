@@ -4,8 +4,7 @@ title: Hackathon
 subtitle: Online hackathon - 23-24 July 2020.
 ---
 
-## Welcome
-Welcome to the TADPOLE-SHARE Hackathon! 
+## Welcome to the TADPOLE-SHARE Hackathon! 
 
 To allow further investigation of the algorithms of the TADPOLE challenge, we initiated a standardized codebase for TADPOLE algorithms: TADPOLE-SHARE. We are collecting TADPOLE algorithms in such a way that they can be applied to different test and training data sets. The standardized codebase can also serve as an exemplar for future code-sharing initiatives in medical computing. Currently, three algorithms are implemented in this codebase. The aim of the TADPOLE-SHARE is to extend this collection and to validate the implemented algorithms on an external dataset. 
 
@@ -22,30 +21,15 @@ The manuscript will consist of the following elements:
 * Evaluation of the trained TADPOLE-SHARE algorithms on external data.
 
 # Program
-**Thursday July 23**
-09.00-14.00 CEST:   **Hands-on time**\*
-- Short update meetings will be planned with all European and Asian teams separately
+__Thursday July 23__
+| 09.00-14.00 CEST: | **Hands-on time**\*<br>Short update meetings will be planned with all European and Asian teams separately |
+| 14.00-15.30 CEST: |  **Hackathon Official Opening**<br>1. Introduction by TADPOLE-SHARE organizers (~15 mins)<br>2. Pitch by each participating team (~10 mins each)<br> - Introduce yourself, including some fun pictures of team members<br> - Brief explanation of your algorithm<br> - What are your goals and expectations for this hackathon |
+| 15.30-17.00 CEST: | **Hands-on time**\*<br>Short update meetings will be planned with all Latin- and North-American teams |
 
-14.00-15.30 CEST:   **Hackathon Official Opening**
-- Introduction by TADPOLE-SHARE organizers (~15 mins)
-- Pitch by each participating team (~10 mins each)
- - Introduce yourself, including some fun pictures of team members
- - Brief explanation of your algorithm
- - What are your goals and expectations for this hackathon
-
-15.30-17.00 CEST:   **Hands-on time**\*
-Short update meetings will be planned with all Latin- and North-American teams 
-
-Friday July 24 
-09.00-14.00 CEST:   **Hands-on time**\*
-Short update meetings will be planned with all European and Asian teams separately
-
-14.00-15.30 CEST:   **Hackathon Official Closing**
-Short progress update by each participating team 
-Brainstorm on TADPOLE-SHARE analysis and manuscript. After the hackathon, TADPOLE-SHARE organizers will start evaluating all algorithms on the external dataset and prepare a manuscript on which you will be co-author. Ideas are welcome.
-
-15.30-17.00 CEST:   **Hands-on time**\*
-Short update meetings will be planned with all Latin- and North-American teams 
+** Friday July 24 **
+| 09.00-14.00 CEST: | **Hands-on time**\*<br>Short update meetings will be planned with all European and Asian teams separately |
+| 14.00-15.30 CEST: | **Hackathon Official Closing**<br>1. Short progress update by each participating team<br>2.Brainstorm on TADPOLE-SHARE analysis and manuscript. After the hackathon, TADPOLE-SHARE organizers will start evaluating all algorithms on the external dataset and prepare a manuscript on which you will be co-author. Ideas are welcome. | 
+| 15.30-17.00 CEST: | **Hands-on time**\*<br>Short update meetings will be planned with all Latin- and North-American teams |
 
 \* *Hands-on time and the rest of the days are meant for teams to work on implementation of algorithms in the TADPOLE-SHARE framework. The goal is to add the algorithms to the TADPOLE-SHARE code base and evaluate them on TADPOLE data to validate if challenge results are reproduced. The external dataset that will be used in the manuscript will be available to start the evaluation.*
 
