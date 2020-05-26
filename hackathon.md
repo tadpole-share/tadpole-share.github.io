@@ -21,6 +21,7 @@ The manuscript will consist of the following elements:
 * Evaluation of the trained TADPOLE-SHARE algorithms on external data.
 
 # Program
+
 |  | *Thursday July 23* |
 | ------------ | ------------- |
 | 09.00-14.00 CEST: | *Hands-on time*\*<br>Short update meetings will be planned with all European and Asian teams separately |
