@@ -31,7 +31,7 @@ The main reason for organizing this hackathon is that in-depth knowledge of the 
 |  | Friday July 24 |
 | ------------ | ------------- |
 | 09.00-14.00 CEST: | *Hands-on time*\*<br>Short update meetings will be planned with all European and Asian teams separately |
-| 14.00-15.30 CEST: | *Hackathon Official Closing*<br>1. Short progress update by each participating team<br>2. Brainstorm on TADPOLE-SHARE analysis and manuscript. After the hackathon, TADPOLE-SHARE organizers will start evaluating all algorithms on the external dataset and prepare a manuscript on which you will be co-author. Ideas are welcome.<br><br> |
+| 14.00-15.30 CEST: | *Hackathon Official Closing*<br>1. Short progress update by each participating team<br>2. Brainstorm on TADPOLE-SHARE analysis and manuscript. <br> - After the hackathon, TADPOLE-SHARE organizers will start evaluating all algorithms on the external dataset<br> - We will prepare a manuscript on which you will be co-author.<br> - Ideas are welcome.<br> |
 | 15.30-17.00 CEST: | *Hands-on time*\*<br>Short update meetings will be planned with all Latin- and North-American teams |
 
 \* *Hands-on time and the rest of the days are meant for teams to work on implementation of algorithms in the TADPOLE-SHARE framework. The goal is to add the algorithms to the TADPOLE-SHARE code base and evaluate them on TADPOLE data to validate if challenge results are reproduced. The external dataset that will be used in the manuscript will be available to start the evaluation. During the indicated hands-on time (9-14h CEST; 15.30-17h CEST):*
