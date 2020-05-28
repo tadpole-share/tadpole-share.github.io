@@ -27,6 +27,7 @@ The main reason for organizing this hackathon is that in-depth knowledge of the 
 | 15.30-17.00 CEST: | *Hands-on time*\*<br>Short update meetings will be planned with all Latin- and North-American teams |
 
 <br>
+
 |  | Friday July 24 |
 | ------------ | ------------- |
 | 09.00-14.00 CEST: | *Hands-on time*\*<br>Short update meetings will be planned with all European and Asian teams separately |
