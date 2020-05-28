@@ -20,7 +20,7 @@ The main reason for organizing this hackathon is that in-depth knowledge of the 
 
 ## Program
 
-|  | Thursday July 23 |
+|  | *Thursday July 23* |
 | ------------ | ------------- |
 | 09.00-14.00 CEST: | *Hands-on time*\*<br>Short update meetings will be planned with all European and Asian teams separately |
 | 14.00-15.30 CEST: | *Hackathon Official Opening*<br>1. Introduction by TADPOLE-SHARE organizers (~15 mins)<br>2. Pitch by each participating team (~10 mins each)<br> - Introduce yourself, including some fun pictures of team members<br> - Brief explanation of your algorithm<br> - What are your goals and expectations for this hackathon |
@@ -28,7 +28,7 @@ The main reason for organizing this hackathon is that in-depth knowledge of the 
 
 <br>
 
-|  | Friday July 24 |
+|  | *Friday July 24* |
 | ------------ | ------------- |
 | 09.00-14.00 CEST: | *Hands-on time*\*<br>Short update meetings will be planned with all European and Asian teams separately |
 | 14.00-15.30 CEST: | *Hackathon Official Closing*<br>1. Short progress update by each participating team<br>2. Brainstorm on TADPOLE-SHARE analysis and manuscript. <br> - After the hackathon, we will evaluate the algorithms on the external dataset<br> - We will prepare a manuscript on which you will be co-author.<br> - Ideas are very much appreciated.<br> |
