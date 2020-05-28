@@ -13,7 +13,7 @@ The main reason for organizing this hackathon is that in-depth knowledge of the 
 ## Objectives
 1. To reproduce TADPOLE results using the TADPOLE-SHARE implementation of algorithms (*to be finished during hackathon*).
 2. To validate TADPOLE-SHARE algorithms on an external testing dataset (i.e. Parelsnoer Neurodegenerative Diseases study, N=556) (*to be started during hackathon*).
-3. To write a manuscript on TADPOLE-SHARE (*after the hackathon*):
+3. To write a manuscript (*after the hackathon*) containing:
 - Presentation of the TADPOLE-SHARE framework
 - Reevaluation of the TADPOLE paper results using the TADPOLE-SHARE implementation.
 - Evaluation of the trained TADPOLE-SHARE algorithms on external data.
@@ -21,6 +21,14 @@ The main reason for organizing this hackathon is that in-depth knowledge of the 
 ## Program
 
 |  | Thursday July 23 |
+| ------------ | ------------- |
+| 09.00-14.00 CEST: | *Hands-on time*\*<br>Short update meetings will be planned with all European and Asian teams separately |
+| 14.00-15.30 CEST: |  *Hackathon Official Opening*<br>1. Introduction by TADPOLE-SHARE organizers (~15 mins)<br>2. Pitch by each participating team (~10 mins each)<br> - Introduce yourself, including some fun pictures of team members<br> - Brief explanation of your algorithm<br> - What are your goals and expectations for this hackathon |
+| 15.30-17.00 CEST: | *Hands-on time*\*<br>Short update meetings will be planned with all Latin- and North-American teams |
+
+<br>
+
+|  | Friday July 24 |
 | ------------ | ------------- |
 | 09.00-14.00 CEST: | *Hands-on time*\*<br>Short update meetings will be planned with all European and Asian teams separately |
 | 14.00-15.30 CEST: |  *Hackathon Official Opening*<br>1. Introduction by TADPOLE-SHARE organizers (~15 mins)<br>2. Pitch by each participating team (~10 mins each)<br> - Introduce yourself, including some fun pictures of team members<br> - Brief explanation of your algorithm<br> - What are your goals and expectations for this hackathon |
