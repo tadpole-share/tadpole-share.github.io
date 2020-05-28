@@ -31,7 +31,7 @@ The main reason for organizing this hackathon is that in-depth knowledge of the 
 |  | Friday July 24 |
 | ------------ | ------------- |
 | 09.00-14.00 CEST: | *Hands-on time*\*<br>Short update meetings will be planned with all European and Asian teams separately |
-| 14.00-15.30 CEST: | *Hackathon Official Closing*<br>1. Short progress update by each participating team<br>2. Brainstorm on TADPOLE-SHARE analysis and manuscript. <br> - After the hackathon, TADPOLE-SHARE organizers will start evaluating all algorithms on the external dataset<br> - We will prepare a manuscript on which you will be co-author.<br> - Ideas are welcome.<br> |
+| 14.00-15.30 CEST: | *Hackathon Official Closing*<br>1. Short progress update by each participating team<br>2. Brainstorm on TADPOLE-SHARE analysis and manuscript. <br> - After the hackathon, we will evaluate the algorithms on the external dataset<br> - We will prepare a manuscript on which you will be co-author.<br> - Ideas are very much appreciated.<br> |
 | 15.30-17.00 CEST: | *Hands-on time*\*<br>Short update meetings will be planned with all Latin- and North-American teams |
 
 \* *Hands-on time and the rest of the days are meant for teams to work on implementation of algorithms in the TADPOLE-SHARE framework. The goal is to add the algorithms to the TADPOLE-SHARE code base and evaluate them on TADPOLE data to validate if challenge results are reproduced. The external dataset that will be used in the manuscript will be available to start the evaluation. During the indicated hands-on time (9-14h CEST; 15.30-17h CEST):*
@@ -39,7 +39,10 @@ The main reason for organizing this hackathon is that in-depth knowledge of the 
 - *Research software engineers are available for question on implementation and python*
 - *Teams can collaborate using Slack, Zoom and Visual Studio Code.*
 
-## Platforms:
+## Teams
+Seven teams have signed up to participate in the challenge. We are planning a meeting with each team in the first week of July. In those meetings, we would like to discuss any questions the teams have as well as the expectations of the hackathon, the current status of their algorithms and the expertise or help they expect to need.
+
+## Platforms
 The hackathon will take place online, using the following platforms:
 - *Website:* [Central place for information and announcements](https://tadpole-share.github.io/hackathon/)
 - *Slack:* Main communication channel before and during the hackathon. Please, [join our Slack channel](
@@ -47,10 +50,7 @@ https://join.slack.com/t/tadpole-hq/shared_invite/zt-9mhtywyc-S37gj3PFZ2bWDZc2t6
 - *Zoom:* All presentations and collaboration sessions will be held on Zoom. Zoom links will be shared in the Slack.
 - *Visual Studio Code:* Collaboration sessions will use Visual Studio Code for working on the same code live. Download [Visual Studio Code](https://code.visualstudio.com/) and the [Live Share Extension](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare).
 
-## Teams
-Seven teams have signed up to participate in the challenge. We are planning a meeting with each team in the first week of July. In those meetings, we would like to discuss any questions the teams have as well as the expectations of the hackathon, the current status of their algorithms and the expertise or help they expect to need.
-
-## Preparation:
+## Preparation
 1. Get familiar with the TADPOLE-SHARE framework by running existing algorithms: [Tutorial](https://docs.google.com/document/d/19cj8_GPxugFJyTh88i_jrskyMh68QsrIqrqKiT7Dn0U/edit)
 2. Prepare your algorithm: 
 - Make sure you understand your algorithm and that all steps are fully automatic.
