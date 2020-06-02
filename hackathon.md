@@ -48,15 +48,15 @@ The hackathon will take place online, using the following platforms:
 - *Slack:* Main communication channel before and during the hackathon. Please, join our [Slack channel](
 https://join.slack.com/t/tadpole-hq/shared_invite/zt-9mhtywyc-S37gj3PFZ2bWDZc2t6u7xw).
 - *Zoom:* All presentations and collaboration sessions will be held on Zoom. Zoom links will be shared in Slack.
-- *Visual Studio Code:* Collaboration sessions will use Visual Studio Code for working on the same code live. Download [Visual Studio Code](https://code.visualstudio.com/) and the [Live Share Extension](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare).
+- *Visual Studio Code:* Collaboration sessions will use Visual Studio Code for working on the same code live. Download [Visual Studio Code](https://code.visualstudio.com/) and the [Live Share Extension](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare). To use Live Share, a [GitHub](https://github.com/) account is required. Find [here](https://www.youtube.com/watch?v=cJ-A4HPUSeU) a YouTube tutorial on Live Share.
 
 ## Preparation
-1. Get familiar with the TADPOLE-SHARE framework by running existing algorithms: [Tutorial](https://docs.google.com/document/d/19cj8_GPxugFJyTh88i_jrskyMh68QsrIqrqKiT7Dn0U/edit).
+1. Get familiar with the TADPOLE-SHARE framework by running existing algorithms: [Tutorial](https://docs.google.com/document/d/19cj8_GPxugFJyTh88i_jrskyMh68QsrIqrqKiT7Dn0U/edit?usp=sharing).
 2. Prepare your algorithm: 
 - Make sure you understand your algorithm and that all steps are fully automatic.
 - The TADPOLE-SHARE framework is written in Python 3. Therefore, only algorithms that can be run from Python 3 can be implemented. So, if your algorithm is not in Python this means that you may have to do some extra work. The preferred option is to rewrite the code in python. Alternatively, you can explore options to call the R or Matlab code from Python. If none of the previous options are possible, we recommend to still adapt the structure of the algorithm to the TADPOLE-SHARE structure with separate train and predict functions. If time allows, we could explore dockerizing the algorithms during the hackathon. Please inform us what option you choose. 
 - Both longitudinal (D2) and cross-sectional (D3) methods can be implemented in the TADPOLE-SHARE framework. For reproducing the TADPOLE result, all implemented methods -both cross-sectional and longitudinal- will be used. For external validation, only cross-sectional methods will be used.
-3. Implement your algorithm into the TADPOLE-SHARE framework: [Tutorial](https://docs.google.com/document/d/18rUQRi0rIelpNtDNJqYhPYbNhD20-zszSwKuHNUtPuk/edit).
+3. Implement your algorithm into the TADPOLE-SHARE framework: [Tutorial](https://docs.google.com/document/d/18rUQRi0rIelpNtDNJqYhPYbNhD20-zszSwKuHNUtPuk/edit?usp=sharing).
 4. Prepare a short pitch for the Opening Session.
 
 ## Organizers
