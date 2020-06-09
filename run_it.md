@@ -1,0 +1,1 @@
+Please follow the following [instructions](https://docs.google.com/document/d/19cj8_GPxugFJyTh88i_jrskyMh68QsrIqrqKiT7Dn0U/edit?usp=sharing) to run existing algorithms and get familiar with the TADPOLE-SHARE framework.
