@@ -40,7 +40,7 @@ The main reason for organizing this hackathon is that in-depth knowledge of the 
 - *Teams can collaborate using Slack, Zoom and Visual Studio Code.*
 
 ## Teams
-Eight teams have signed up to participate in the challenge. We are planning a meeting with each team in the first week of July. In those meetings, we would like to discuss any questions the teams have as well as the expectations of the hackathon, the current status of their algorithms and the expertise or help they expect to need.
+Eight teams have signed up to participate in the challenge. We are planning a pre-meeting with each team, preferably on Tuesday July 14. In those meetings, we would like to discuss any questions the teams have as well as the expectations of the hackathon, the current status of their algorithms and the expertise or help they expect to need.
 
 ## Platforms
 The hackathon will take place online, using the following platforms:
