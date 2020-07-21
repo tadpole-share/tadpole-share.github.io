@@ -23,7 +23,7 @@ The main reason for organizing this hackathon is that in-depth knowledge of the 
 |  | *Thursday July 23* |
 | ------------ | ------------- |
 | 09.00-14.00 CEST: | *Hands-on time*\*<br>Short update meetings will be planned with all European and Asian teams separately. |
-| 14.00-15.30 CEST: | *Hackathon Official Opening*<br>1. Introduction by TADPOLE-SHARE organizers (~15 mins).<br> - Including ice breaker game.<br>2. Pitch by each participating team (~10 mins each).<br> - Introduce yourself, including some fun pictures of team members.<br> - Brief explanation of your algorithm.<br> - What are your goals and expectations for this hackathon. |
+| 14.00-15.30 CEST: | [*Hackathon Official Opening*](https://us02web.zoom.us/j/83696153298?pwd=Z0UyNFhPeEtGSjFWdVRqVTJBdVppQT09)<br>1. Introduction by TADPOLE-SHARE organizers (~15 mins).<br> - Including ice breaker game.<br>2. Pitch by each participating team (~10 mins each).<br> - Introduce yourself, including some fun pictures of team members.<br> - Brief explanation of your algorithm.<br> - What are your goals and expectations for this hackathon. |
 | 15.30-17.00 CEST: | *Hands-on time*\*<br>Short update meetings will be planned with all North-/Latin-American teams. |
 
 <br style="line-height:0px;" /> 
@@ -31,7 +31,7 @@ The main reason for organizing this hackathon is that in-depth knowledge of the 
 |  | *Friday July 24* |
 | ------------ | ------------- |
 | 09.00-14.00 CEST: | *Hands-on time*\*<br>Short update meetings will be planned with all European and Asian teams separately. |
-| 14.00-15.30 CEST: | *Hackathon Official Closing*<br>1. Short progress update by each participating team.<br>2. Brainstorm on TADPOLE-SHARE analysis and manuscript. <br> - After the hackathon, we will evaluate the algorithms on the external dataset.<br> - We will prepare a manuscript on which you will be co-author.<br> - Ideas are very much appreciated.<br> |
+| 14.00-15.30 CEST: | [*Hackathon Official Closing*](https://us02web.zoom.us/j/83696153298?pwd=Z0UyNFhPeEtGSjFWdVRqVTJBdVppQT09)<br>1. Short progress update by each participating team.<br>2. Brainstorm on TADPOLE-SHARE analysis and manuscript. <br> - After the hackathon, we will evaluate the algorithms on the external dataset.<br> - We will prepare a manuscript on which you will be co-author.<br> - Ideas are very much appreciated.<br> |
 | 15.30-17.00 CEST: | *Hands-on time*\*<br>Short update meetings will be planned with all North-/Latin-American teams. |
 
 \* *Hands-on time and the rest of the days are meant for teams to work on implementation of algorithms in the TADPOLE-SHARE framework. The goal is to add the algorithms to the TADPOLE-SHARE code base and evaluate them on TADPOLE data to validate if challenge results are reproduced. The external dataset that will be used in the manuscript will be available to start the evaluation. During the hands-on time (9-14h CEST; 15.30-17h CEST):*
@@ -40,14 +40,14 @@ The main reason for organizing this hackathon is that in-depth knowledge of the 
 - *Teams can collaborate using Slack, Zoom and Visual Studio Code.*
 
 ## Teams
-Eight teams have signed up to participate in the challenge. We are planning a pre-meeting with each team, preferably on Tuesday July 14. In those meetings, we would like to discuss any questions the teams have as well as the expectations of the hackathon, the current status of their algorithms and the expertise or help they expect to need.
+Five teams are participating in the challenge. We had a pre-meeting with each team on Tuesday July 14. In those meetings, we discussed questions the teams have as well as the expectations of the hackathon, the current status of their algorithms and the expertise or help they expect to need.
 
 ## Platforms
 The hackathon will take place online, using the following platforms:
 - *Website:* [Central place](https://tadpole-share.github.io/hackathon/) for information and announcements.
 - *Slack:* Main communication channel before and during the hackathon. Please, join our [Slack channel](
 https://join.slack.com/t/tadpole-hq/shared_invite/zt-9mhtywyc-S37gj3PFZ2bWDZc2t6u7xw).
-- *Zoom:* All presentations and collaboration sessions will be held on Zoom. Zoom links will be shared in Slack.
+- *Zoom:* All presentations and collaboration sessions will be held [here](https://us02web.zoom.us/j/83696153298?pwd=Z0UyNFhPeEtGSjFWdVRqVTJBdVppQT09). 
 - *Visual Studio Code:* Collaboration sessions will use Visual Studio Code for working on the same code live. Download [Visual Studio Code](https://code.visualstudio.com/) and the [Live Share Extension](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare). To use Live Share, a [GitHub](https://github.com/) account is required. Find [here](https://www.youtube.com/watch?v=cJ-A4HPUSeU) a YouTube tutorial on Live Share.
 
 ## Preparation
