@@ -21,7 +21,7 @@ The main reason for organizing this hackathon is that in-depth knowledge of the 
 ## Thanks!
 We would like to thank all participants for the successful and inspirint event. We are looking forward to continue this collaboration in the next months!
  <br>
-![alt text](https://github.com/TADPOLE-SHARE/tadpole-share.github.io/img/TADPOLE-SHARE-hackathon-grouppicture.png "Hackathon Group Picture")
+![](https://github.com/tadpole-share/tadpole-share.github.io/tree/master/img/TADPOLE-SHARE-hackathon-grouppicture.png | width=300)
 
 
 ## Program
