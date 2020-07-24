@@ -18,6 +18,12 @@ The main reason for organizing this hackathon is that in-depth knowledge of the 
 - Reevaluation of the TADPOLE paper results using the TADPOLE-SHARE implementation.
 - Evaluation of the trained TADPOLE-SHARE algorithms on external data.
 
+## Thanks!
+We would like to thank all participants for the successful and inspirint event. We are looking forward to continue this collaboration in the next months!
+ <br>
+![alt text](https://github.com/TADPOLE-SHARE/tadpole-share.github.io/img/TADPOLE-SHARE-hackathon-grouppicture.png "Hackathon Group Picture")
+
+
 ## Program
 
 |  | *Thursday July 23* |
@@ -47,7 +53,7 @@ The hackathon will take place online, using the following platforms:
 - *Website:* [Central place](https://tadpole-share.github.io/hackathon/) for information and announcements.
 - *Slack:* Main communication channel before and during the hackathon. Please, join our [Slack channel](
 https://join.slack.com/t/tadpole-hq/shared_invite/zt-9mhtywyc-S37gj3PFZ2bWDZc2t6u7xw).
-- *Zoom:* All presentations and collaboration sessions will be held [here](https://us02web.zoom.us/j/83696153298?pwd=Z0UyNFhPeEtGSjFWdVRqVTJBdVppQT09). 
+- *Zoom:* All presentations and collaboration sessions will be held using Zoom. 
 - *Visual Studio Code:* Collaboration sessions will use Visual Studio Code for working on the same code live. Download [Visual Studio Code](https://code.visualstudio.com/) and the [Live Share Extension](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare). To use Live Share, a [GitHub](https://github.com/) account is required. Find [here](https://www.youtube.com/watch?v=cJ-A4HPUSeU) a YouTube tutorial on Live Share.
 
 ## Preparation
