@@ -19,7 +19,7 @@ The main reason for organizing this hackathon is that in-depth knowledge of the 
 - Evaluation of the trained TADPOLE-SHARE algorithms on external data.
 
 ## Thanks!
-We would like to thank all participants for the successful and inspirint event. We are looking forward to continue this collaboration in the next months!
+We would like to thank all participants for the successful and inspiring event. We are looking forward to continue this collaboration in the next months!
  <br>
 ![](https://github.com/tadpole-share/tadpole-share.github.io/tree/master/img/TADPOLE-SHARE-hackathon-grouppicture.png | width=300)
 
